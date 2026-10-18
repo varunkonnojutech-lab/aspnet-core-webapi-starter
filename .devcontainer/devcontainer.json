@@ -1,0 +1,1 @@
+{"customizations":{"vscode":{"extensions":["ms-dotnettools.csharp"]}},"image":"mcr.microsoft.com/devcontainers/dotnet:1-8-bookworm","name":"aspnet-core-webapi-starter","postCreateCommand":"dotnet restore src/WebApi && dotnet restore tests/WebApi.Tests"}
